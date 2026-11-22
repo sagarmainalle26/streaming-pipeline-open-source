@@ -1,0 +1,6 @@
+token,events,seq_backwards,seq_jumps,exchange_ts_backwards,duplicate_exchange_ts,invalid_ltp
+1333,1254,0,1253,0,683,0
+10604,1214,0,1213,0,646,0
+4963,1117,0,1116,0,570,0
+2885,977,0,976,0,485,0
+11536,585,0,584,0,203,0

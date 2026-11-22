@@ -1,0 +1,24 @@
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.Python
+.pytest_cache/
+
+# Angel One market data (large; redistribution is bound by SmartAPI terms)
+**/ticks.jsonl
+**/results/raw/
+**/sample_event.json
+**/OpenAPIScripMaster.json
+
+# SDK log files (written to logs/ in the working directory)
+logs/
+**/logs/
+
+.DS_Store
